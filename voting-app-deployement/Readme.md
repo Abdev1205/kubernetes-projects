@@ -56,8 +56,10 @@ This project demonstrates how to deploy a simple voting application using Kubern
 
 Below are screenshots of the deployed application running on Minikube:
 
-<!-- Add your screenshots here -->
+
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/40a868bd-0672-445a-a13a-9901aab956f0" />
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/d7c0e810-2dd9-414c-99ed-cec7122ddae9" />
+
 
 ---
 
-Feel free to experiment with the pod YAML files in the `pods/` directory for manual testing and learning.
